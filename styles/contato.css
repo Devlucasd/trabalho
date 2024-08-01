@@ -5,14 +5,22 @@ body {
     padding: 0;
     background-color: #fff3e0;
 }
-
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+h2 {
+    text-align: center;
+}
 header {
     background: #333;
     color: #fff;
     padding: 10px 0;
     text-align: center;
 }
-
+p {
+    text-align: center;
+}
 nav ul {
     list-style: none;
     padding: 0;
@@ -29,10 +37,10 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 200px;
     background-color: #fff;
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 999px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 

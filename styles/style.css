@@ -29,13 +29,16 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 200px;
     background-color: #fff;
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 999px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
-    color: #0d47a1;
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 1px solid #ddd;
 }
